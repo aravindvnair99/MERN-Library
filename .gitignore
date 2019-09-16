@@ -52,12 +52,6 @@ jspm_packages/
 /.pnp
 .pnp.js
 
-# TypeScript v1 declaration files
-typings/
-
-# TypeScript cache
-*.tsbuildinfo
-
 # Optional npm cache directory
 .npm
 
@@ -92,19 +86,12 @@ typings/
 
 # gatsby files
 .cache/
-public
-
-# vuepress build output
-.vuepress/dist
 
 # Serverless directories
 .serverless/
 
 # FuseBox cache
 .fusebox/
-
-# DynamoDB Local files
-.dynamodb/
 
 # Windows thumbnail cache files
 Thumbs.db
