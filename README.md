@@ -1,3 +1,5 @@
+# MERN-Library ![](https://komarev.com/ghpvc/?username=AravindVNair99&label=Views)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
